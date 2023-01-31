@@ -1,1 +1,2 @@
-# Coltul-Negru
+# The black path
+A board game known as "The black path game" made in C++. You will need an audio file with the specified name in the code for it to have sound. It is played on a square board with a minimum of 4 x 4 and a maximum of 8 x 8 squares. One of the corners of the board is black, and the game always starts from the corner diagonally opposite to it. The game can be played by two players or by one player against the computer. The aim of the game is to form the road to the black corner.
